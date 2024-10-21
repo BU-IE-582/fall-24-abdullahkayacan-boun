@@ -9,14 +9,14 @@ Please check the links by clicking on them.
 ### Correct linking of .html and .pdf files:
 
 
-* [Correct Example 1](https://bu-ie-582.github.io/fall-24-abdullahkayacan-boun/IE582_fall-24_Syllabus.pdf): The .pdf file is in the same location with your index file.
+* [Correct Example 1](https://bu-ie-582.github.io/fall-24-abdullahkayacan-boun/IE582_Fall24_Syllabus.pdf): The .pdf file is in the same location with your index file.
 * [Correct Example 2](https://bu-ie-582.github.io/fall-24-abdullahkayacan-boun/files/R_Markdown_Example_in_RStudio.html): The .html file is in a folder called files and this folder is in the same location with your index file.
 
-* [Correct Example 3](IE582_fall-24_Syllabus.pdf): You can use the path and the file name only.
+* [Correct Example 3](IE582_Fall24_Syllabus.pdf): You can use the path and the file name only.
 
 * [Correct Example 4](files/How%20to%20export%20your%20work%20as%20an%20HTML%20file.pdf): You can use the path and the file name only.
 
-* [Wrong Example](https://github.com/BU-IE-582/fall-24-abdullahkayacan-boun/blob/main/IE582_fall-24_Syllabus.pdf): Do not provide links with "blob" or "main". Be careful with this issue while linking your Homework Assignments.
+* [Wrong Example](https://github.com/BU-IE-582/fall-24-abdullahkayacan-boun/blob/main/IE582_Fall24_Syllabus.pdf): Do not provide links with "blob" or "main". Be careful with this issue while linking your Homework Assignments.
 
 
 ### Example scripts and .html files
